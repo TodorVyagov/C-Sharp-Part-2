@@ -1,0 +1,6 @@
+D:\Todor\Telerik Software Academy\C# 2Part\1.Homework.Arrays\1.HomeworkArrays\18.RemoveElementsToSortArray\bin\Debug\18.RemoveElementsToSortArray.exe.config
+D:\Todor\Telerik Software Academy\C# 2Part\1.Homework.Arrays\1.HomeworkArrays\18.RemoveElementsToSortArray\bin\Debug\18.RemoveElementsToSortArray.exe
+D:\Todor\Telerik Software Academy\C# 2Part\1.Homework.Arrays\1.HomeworkArrays\18.RemoveElementsToSortArray\bin\Debug\18.RemoveElementsToSortArray.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\1.Homework.Arrays\1.HomeworkArrays\18.RemoveElementsToSortArray\obj\Debug\18.RemoveElementsToSortArray.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 2Part\1.Homework.Arrays\1.HomeworkArrays\18.RemoveElementsToSortArray\obj\Debug\18.RemoveElementsToSortArray.exe
+D:\Todor\Telerik Software Academy\C# 2Part\1.Homework.Arrays\1.HomeworkArrays\18.RemoveElementsToSortArray\obj\Debug\18.RemoveElementsToSortArray.pdb

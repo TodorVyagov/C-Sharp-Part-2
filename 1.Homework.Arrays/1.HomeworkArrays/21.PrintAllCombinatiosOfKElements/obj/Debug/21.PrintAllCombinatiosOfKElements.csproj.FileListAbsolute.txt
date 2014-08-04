@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\C# 2Part\1.Homework.Arrays\1.HomeworkArrays\21.PrintAllCombinatiosOfKElements\bin\Debug\21.PrintAllCombinatiosOfKElements.exe.config
+D:\Todor\Telerik Software Academy\C# 2Part\1.Homework.Arrays\1.HomeworkArrays\21.PrintAllCombinatiosOfKElements\bin\Debug\21.PrintAllCombinatiosOfKElements.exe
+D:\Todor\Telerik Software Academy\C# 2Part\1.Homework.Arrays\1.HomeworkArrays\21.PrintAllCombinatiosOfKElements\bin\Debug\21.PrintAllCombinatiosOfKElements.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\1.Homework.Arrays\1.HomeworkArrays\21.PrintAllCombinatiosOfKElements\obj\Debug\21.PrintAllCombinatiosOfKElements.exe
+D:\Todor\Telerik Software Academy\C# 2Part\1.Homework.Arrays\1.HomeworkArrays\21.PrintAllCombinatiosOfKElements\obj\Debug\21.PrintAllCombinatiosOfKElements.pdb

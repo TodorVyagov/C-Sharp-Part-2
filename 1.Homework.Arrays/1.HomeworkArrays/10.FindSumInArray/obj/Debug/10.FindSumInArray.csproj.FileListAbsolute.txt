@@ -1,0 +1,9 @@
+D:\Todor\Telerik Software Academy\C# 2Part\1.Homework.Arrays\1.HomeworkArrays\10.FindSumInArray\bin\Debug\10.FindSumInArray.exe.config
+D:\Todor\Telerik Software Academy\C# 2Part\1.Homework.Arrays\1.HomeworkArrays\10.FindSumInArray\bin\Debug\10.FindSumInArray.exe
+D:\Todor\Telerik Software Academy\C# 2Part\1.Homework.Arrays\1.HomeworkArrays\10.FindSumInArray\bin\Debug\10.FindSumInArray.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\1.Homework.Arrays\1.HomeworkArrays\10.FindSumInArray\obj\Debug\10.FindSumInArray.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 2Part\1.Homework.Arrays\1.HomeworkArrays\10.FindSumInArray\obj\Debug\10.FindSumInArray.exe
+D:\Todor\Telerik Software Academy\C# 2Part\1.Homework.Arrays\1.HomeworkArrays\10.FindSumInArray\obj\Debug\10.FindSumInArray.pdb
+C:\Users\student\Downloads\HW_RANOPILE_Masivi_2013-12-13_15-39\1.HomeworkArrays\10.FindSumInArray\bin\Debug\10.FindSumInArray.exe.config
+C:\Users\student\Downloads\HW_RANOPILE_Masivi_2013-12-13_15-39\1.HomeworkArrays\10.FindSumInArray\obj\Debug\10.FindSumInArray.exe
+C:\Users\student\Downloads\HW_RANOPILE_Masivi_2013-12-13_15-39\1.HomeworkArrays\10.FindSumInArray\obj\Debug\10.FindSumInArray.pdb

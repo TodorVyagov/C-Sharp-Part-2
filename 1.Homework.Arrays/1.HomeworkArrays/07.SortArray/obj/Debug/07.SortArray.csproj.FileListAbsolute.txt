@@ -1,0 +1,12 @@
+D:\Todor\Telerik Software Academy\C# 2Part\1.Homework.Arrays\1.HomeworkArrays\07.SortArray\bin\Debug\07.SortArray.exe.config
+D:\Todor\Telerik Software Academy\C# 2Part\1.Homework.Arrays\1.HomeworkArrays\07.SortArray\bin\Debug\07.SortArray.exe
+D:\Todor\Telerik Software Academy\C# 2Part\1.Homework.Arrays\1.HomeworkArrays\07.SortArray\bin\Debug\07.SortArray.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\1.Homework.Arrays\1.HomeworkArrays\07.SortArray\obj\Debug\07.SortArray.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 2Part\1.Homework.Arrays\1.HomeworkArrays\07.SortArray\obj\Debug\07.SortArray.exe
+D:\Todor\Telerik Software Academy\C# 2Part\1.Homework.Arrays\1.HomeworkArrays\07.SortArray\obj\Debug\07.SortArray.pdb
+C:\Users\student\Downloads\HW_RANOPILE_Masivi_2013-12-13_17-59\1.HomeworkArrays\07.SortArray\bin\Debug\07.SortArray.exe.config
+C:\Users\student\Downloads\HW_RANOPILE_Masivi_2013-12-13_17-59\1.HomeworkArrays\07.SortArray\bin\Debug\07.SortArray.exe
+C:\Users\student\Downloads\HW_RANOPILE_Masivi_2013-12-13_17-59\1.HomeworkArrays\07.SortArray\bin\Debug\07.SortArray.pdb
+C:\Users\student\Downloads\HW_RANOPILE_Masivi_2013-12-13_17-59\1.HomeworkArrays\07.SortArray\obj\Debug\07.SortArray.csprojResolveAssemblyReference.cache
+C:\Users\student\Downloads\HW_RANOPILE_Masivi_2013-12-13_17-59\1.HomeworkArrays\07.SortArray\obj\Debug\07.SortArray.exe
+C:\Users\student\Downloads\HW_RANOPILE_Masivi_2013-12-13_17-59\1.HomeworkArrays\07.SortArray\obj\Debug\07.SortArray.pdb

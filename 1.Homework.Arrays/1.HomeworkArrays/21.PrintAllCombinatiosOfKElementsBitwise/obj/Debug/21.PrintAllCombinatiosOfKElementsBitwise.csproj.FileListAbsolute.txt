@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\C# 2Part\1.Homework.Arrays\1.HomeworkArrays\21.PrintAllCombinatiosOfKElementsBitwise\bin\Debug\21.PrintAllCombinatiosOfKElementsBitwise.exe.config
+D:\Todor\Telerik Software Academy\C# 2Part\1.Homework.Arrays\1.HomeworkArrays\21.PrintAllCombinatiosOfKElementsBitwise\bin\Debug\21.PrintAllCombinatiosOfKElementsBitwise.exe
+D:\Todor\Telerik Software Academy\C# 2Part\1.Homework.Arrays\1.HomeworkArrays\21.PrintAllCombinatiosOfKElementsBitwise\bin\Debug\21.PrintAllCombinatiosOfKElementsBitwise.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\1.Homework.Arrays\1.HomeworkArrays\21.PrintAllCombinatiosOfKElementsBitwise\obj\Debug\21.PrintAllCombinatiosOfKElementsBitwise.exe
+D:\Todor\Telerik Software Academy\C# 2Part\1.Homework.Arrays\1.HomeworkArrays\21.PrintAllCombinatiosOfKElementsBitwise\obj\Debug\21.PrintAllCombinatiosOfKElementsBitwise.pdb

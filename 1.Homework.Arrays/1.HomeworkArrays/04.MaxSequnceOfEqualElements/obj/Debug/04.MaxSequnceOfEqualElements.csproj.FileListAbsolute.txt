@@ -1,0 +1,9 @@
+D:\Todor\Telerik Software Academy\C# 2Part\1.Homework.Arrays\1.HomeworkArrays\04.MaxSequnceOfEqualElements\bin\Debug\04.MaxSequnceOfEqualElements.exe.config
+D:\Todor\Telerik Software Academy\C# 2Part\1.Homework.Arrays\1.HomeworkArrays\04.MaxSequnceOfEqualElements\bin\Debug\04.MaxSequnceOfEqualElements.exe
+D:\Todor\Telerik Software Academy\C# 2Part\1.Homework.Arrays\1.HomeworkArrays\04.MaxSequnceOfEqualElements\bin\Debug\04.MaxSequnceOfEqualElements.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\1.Homework.Arrays\1.HomeworkArrays\04.MaxSequnceOfEqualElements\obj\Debug\04.MaxSequnceOfEqualElements.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 2Part\1.Homework.Arrays\1.HomeworkArrays\04.MaxSequnceOfEqualElements\obj\Debug\04.MaxSequnceOfEqualElements.exe
+D:\Todor\Telerik Software Academy\C# 2Part\1.Homework.Arrays\1.HomeworkArrays\04.MaxSequnceOfEqualElements\obj\Debug\04.MaxSequnceOfEqualElements.pdb
+C:\Users\student\Downloads\HW_RANOPILE_Masivi_2013-12-13_15-39\1.HomeworkArrays\04.MaxSequnceOfEqualElements\bin\Debug\04.MaxSequnceOfEqualElements.exe.config
+C:\Users\student\Downloads\HW_RANOPILE_Masivi_2013-12-13_15-39\1.HomeworkArrays\04.MaxSequnceOfEqualElements\obj\Debug\04.MaxSequnceOfEqualElements.exe
+C:\Users\student\Downloads\HW_RANOPILE_Masivi_2013-12-13_15-39\1.HomeworkArrays\04.MaxSequnceOfEqualElements\obj\Debug\04.MaxSequnceOfEqualElements.pdb

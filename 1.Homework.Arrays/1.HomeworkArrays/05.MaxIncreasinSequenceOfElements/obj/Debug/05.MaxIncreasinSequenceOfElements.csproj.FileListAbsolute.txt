@@ -1,0 +1,9 @@
+D:\Todor\Telerik Software Academy\C# 2Part\1.Homework.Arrays\1.HomeworkArrays\05.MaxIncreasinSequenceOfElements\bin\Debug\05.MaxIncreasinSequenceOfElements.exe.config
+D:\Todor\Telerik Software Academy\C# 2Part\1.Homework.Arrays\1.HomeworkArrays\05.MaxIncreasinSequenceOfElements\bin\Debug\05.MaxIncreasinSequenceOfElements.exe
+D:\Todor\Telerik Software Academy\C# 2Part\1.Homework.Arrays\1.HomeworkArrays\05.MaxIncreasinSequenceOfElements\bin\Debug\05.MaxIncreasinSequenceOfElements.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\1.Homework.Arrays\1.HomeworkArrays\05.MaxIncreasinSequenceOfElements\obj\Debug\05.MaxIncreasinSequenceOfElements.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 2Part\1.Homework.Arrays\1.HomeworkArrays\05.MaxIncreasinSequenceOfElements\obj\Debug\05.MaxIncreasinSequenceOfElements.exe
+D:\Todor\Telerik Software Academy\C# 2Part\1.Homework.Arrays\1.HomeworkArrays\05.MaxIncreasinSequenceOfElements\obj\Debug\05.MaxIncreasinSequenceOfElements.pdb
+C:\Users\student\Downloads\HW_RANOPILE_Masivi_2013-12-13_15-39\1.HomeworkArrays\05.MaxIncreasinSequenceOfElements\bin\Debug\05.MaxIncreasinSequenceOfElements.exe.config
+C:\Users\student\Downloads\HW_RANOPILE_Masivi_2013-12-13_15-39\1.HomeworkArrays\05.MaxIncreasinSequenceOfElements\obj\Debug\05.MaxIncreasinSequenceOfElements.exe
+C:\Users\student\Downloads\HW_RANOPILE_Masivi_2013-12-13_15-39\1.HomeworkArrays\05.MaxIncreasinSequenceOfElements\obj\Debug\05.MaxIncreasinSequenceOfElements.pdb

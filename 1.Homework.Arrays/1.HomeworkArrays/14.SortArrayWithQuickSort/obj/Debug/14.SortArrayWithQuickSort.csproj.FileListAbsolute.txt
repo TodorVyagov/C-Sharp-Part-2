@@ -1,0 +1,6 @@
+D:\Todor\Telerik Software Academy\C# 2Part\1.Homework.Arrays\1.HomeworkArrays\14.SortArrayWithQuickSort\bin\Debug\14.SortArrayWithQuickSort.exe.config
+D:\Todor\Telerik Software Academy\C# 2Part\1.Homework.Arrays\1.HomeworkArrays\14.SortArrayWithQuickSort\bin\Debug\14.SortArrayWithQuickSort.exe
+D:\Todor\Telerik Software Academy\C# 2Part\1.Homework.Arrays\1.HomeworkArrays\14.SortArrayWithQuickSort\bin\Debug\14.SortArrayWithQuickSort.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\1.Homework.Arrays\1.HomeworkArrays\14.SortArrayWithQuickSort\obj\Debug\14.SortArrayWithQuickSort.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 2Part\1.Homework.Arrays\1.HomeworkArrays\14.SortArrayWithQuickSort\obj\Debug\14.SortArrayWithQuickSort.exe
+D:\Todor\Telerik Software Academy\C# 2Part\1.Homework.Arrays\1.HomeworkArrays\14.SortArrayWithQuickSort\obj\Debug\14.SortArrayWithQuickSort.pdb

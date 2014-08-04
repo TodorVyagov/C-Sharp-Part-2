@@ -1,0 +1,12 @@
+D:\Todor\Telerik Software Academy\C# 2Part\1.Homework.Arrays\1.HomeworkArrays\11.BinarySearchAlgorithm\bin\Debug\11.BinarySearchAlgorithm.exe.config
+D:\Todor\Telerik Software Academy\C# 2Part\1.Homework.Arrays\1.HomeworkArrays\11.BinarySearchAlgorithm\obj\Debug\11.BinarySearchAlgorithm.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 2Part\1.Homework.Arrays\1.HomeworkArrays\11.BinarySearchAlgorithm\bin\Debug\11.BinarySearchAlgorithm.exe
+D:\Todor\Telerik Software Academy\C# 2Part\1.Homework.Arrays\1.HomeworkArrays\11.BinarySearchAlgorithm\bin\Debug\11.BinarySearchAlgorithm.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\1.Homework.Arrays\1.HomeworkArrays\11.BinarySearchAlgorithm\obj\Debug\11.BinarySearchAlgorithm.exe
+D:\Todor\Telerik Software Academy\C# 2Part\1.Homework.Arrays\1.HomeworkArrays\11.BinarySearchAlgorithm\obj\Debug\11.BinarySearchAlgorithm.pdb
+C:\Users\student\Downloads\HW_RANOPILE_Masivi_2013-12-13_15-39\1.HomeworkArrays\11.BinarySearchAlgorithm\bin\Debug\11.BinarySearchAlgorithm.exe.config
+C:\Users\student\Downloads\HW_RANOPILE_Masivi_2013-12-13_15-39\1.HomeworkArrays\11.BinarySearchAlgorithm\obj\Debug\11.BinarySearchAlgorithm.exe
+C:\Users\student\Downloads\HW_RANOPILE_Masivi_2013-12-13_15-39\1.HomeworkArrays\11.BinarySearchAlgorithm\obj\Debug\11.BinarySearchAlgorithm.pdb
+C:\Users\student\Downloads\HW_RANOPILE_Masivi_2013-12-13_15-39\1.HomeworkArrays\11.BinarySearchAlgorithm\bin\Debug\11.BinarySearchAlgorithm.exe
+C:\Users\student\Downloads\HW_RANOPILE_Masivi_2013-12-13_15-39\1.HomeworkArrays\11.BinarySearchAlgorithm\bin\Debug\11.BinarySearchAlgorithm.pdb
+C:\Users\student\Downloads\HW_RANOPILE_Masivi_2013-12-13_15-39\1.HomeworkArrays\11.BinarySearchAlgorithm\obj\Debug\11.BinarySearchAlgorithm.csprojResolveAssemblyReference.cache

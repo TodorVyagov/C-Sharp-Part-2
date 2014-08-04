@@ -1,0 +1,6 @@
+D:\Todor\Telerik Software Academy\C# 2Part\1.Homework.Arrays\1.HomeworkArrays\20.PrintAllVariationsOfKElements\bin\Debug\20.PrintAllVariationsOfKElements.exe.config
+D:\Todor\Telerik Software Academy\C# 2Part\1.Homework.Arrays\1.HomeworkArrays\20.PrintAllVariationsOfKElements\bin\Debug\20.PrintAllVariationsOfKElements.exe
+D:\Todor\Telerik Software Academy\C# 2Part\1.Homework.Arrays\1.HomeworkArrays\20.PrintAllVariationsOfKElements\bin\Debug\20.PrintAllVariationsOfKElements.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\1.Homework.Arrays\1.HomeworkArrays\20.PrintAllVariationsOfKElements\obj\Debug\20.PrintAllVariationsOfKElements.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 2Part\1.Homework.Arrays\1.HomeworkArrays\20.PrintAllVariationsOfKElements\obj\Debug\20.PrintAllVariationsOfKElements.exe
+D:\Todor\Telerik Software Academy\C# 2Part\1.Homework.Arrays\1.HomeworkArrays\20.PrintAllVariationsOfKElements\obj\Debug\20.PrintAllVariationsOfKElements.pdb
