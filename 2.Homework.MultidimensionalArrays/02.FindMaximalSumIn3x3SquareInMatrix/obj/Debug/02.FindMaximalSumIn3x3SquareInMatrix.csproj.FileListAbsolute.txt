@@ -1,0 +1,6 @@
+D:\Todor\Telerik Software Academy\C# 2Part\2.Homework.MultidimensionalArrays\02.FindMaximalSumIn3x3SquareInMatrix\bin\Debug\02.FindMaximalSumIn3x3SquareInMatrix.exe.config
+D:\Todor\Telerik Software Academy\C# 2Part\2.Homework.MultidimensionalArrays\02.FindMaximalSumIn3x3SquareInMatrix\bin\Debug\02.FindMaximalSumIn3x3SquareInMatrix.exe
+D:\Todor\Telerik Software Academy\C# 2Part\2.Homework.MultidimensionalArrays\02.FindMaximalSumIn3x3SquareInMatrix\bin\Debug\02.FindMaximalSumIn3x3SquareInMatrix.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\2.Homework.MultidimensionalArrays\02.FindMaximalSumIn3x3SquareInMatrix\obj\Debug\02.FindMaximalSumIn3x3SquareInMatrix.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 2Part\2.Homework.MultidimensionalArrays\02.FindMaximalSumIn3x3SquareInMatrix\obj\Debug\02.FindMaximalSumIn3x3SquareInMatrix.exe
+D:\Todor\Telerik Software Academy\C# 2Part\2.Homework.MultidimensionalArrays\02.FindMaximalSumIn3x3SquareInMatrix\obj\Debug\02.FindMaximalSumIn3x3SquareInMatrix.pdb

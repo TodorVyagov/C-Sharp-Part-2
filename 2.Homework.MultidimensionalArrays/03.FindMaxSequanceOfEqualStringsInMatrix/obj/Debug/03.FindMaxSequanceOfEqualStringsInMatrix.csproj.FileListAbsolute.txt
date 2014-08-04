@@ -1,0 +1,6 @@
+D:\Todor\Telerik Software Academy\C# 2Part\2.Homework.MultidimensionalArrays\03.FindMaxSequanceOfEqualStringsInMatrix\bin\Debug\03.FindMaxSequanceOfEqualStringsInMatrix.exe.config
+D:\Todor\Telerik Software Academy\C# 2Part\2.Homework.MultidimensionalArrays\03.FindMaxSequanceOfEqualStringsInMatrix\bin\Debug\03.FindMaxSequanceOfEqualStringsInMatrix.exe
+D:\Todor\Telerik Software Academy\C# 2Part\2.Homework.MultidimensionalArrays\03.FindMaxSequanceOfEqualStringsInMatrix\bin\Debug\03.FindMaxSequanceOfEqualStringsInMatrix.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\2.Homework.MultidimensionalArrays\03.FindMaxSequanceOfEqualStringsInMatrix\obj\Debug\03.FindMaxSequanceOfEqualStringsInMatrix.exe
+D:\Todor\Telerik Software Academy\C# 2Part\2.Homework.MultidimensionalArrays\03.FindMaxSequanceOfEqualStringsInMatrix\obj\Debug\03.FindMaxSequanceOfEqualStringsInMatrix.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\2.Homework.MultidimensionalArrays\03.FindMaxSequanceOfEqualStringsInMatrix\obj\Debug\03.FindMaxSequanceOfEqualStringsInMatrix.csprojResolveAssemblyReference.cache
