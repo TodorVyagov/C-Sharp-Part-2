@@ -1,0 +1,1 @@
+D:\Todor\Telerik Software Academy\C# 2Part\3.Methods\3.Methods\15.MinMaxAvgSumProductGeneric\bin\Debug\15.MinMaxAvgSumProductGeneric.exe.config

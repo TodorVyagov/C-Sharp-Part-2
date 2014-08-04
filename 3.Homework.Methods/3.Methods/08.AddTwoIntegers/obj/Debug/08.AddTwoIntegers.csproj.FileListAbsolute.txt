@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\C# 2Part\3.Methods\3.Methods\08.AddTwoIntegers\obj\Debug\08.AddTwoIntegers.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 2Part\3.Methods\3.Methods\08.AddTwoIntegers\bin\Debug\08.AddTwoIntegers.exe
+D:\Todor\Telerik Software Academy\C# 2Part\3.Methods\3.Methods\08.AddTwoIntegers\bin\Debug\08.AddTwoIntegers.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\3.Methods\3.Methods\08.AddTwoIntegers\obj\Debug\08.AddTwoIntegers.exe
+D:\Todor\Telerik Software Academy\C# 2Part\3.Methods\3.Methods\08.AddTwoIntegers\obj\Debug\08.AddTwoIntegers.pdb

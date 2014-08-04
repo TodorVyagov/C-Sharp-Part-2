@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\C# 2Part\3.Methods\3.Methods\04.RepeatsOfNumberInArray\bin\Debug\04.RepeatsOfNumberInArray.exe.config
+D:\Todor\Telerik Software Academy\C# 2Part\3.Methods\3.Methods\04.RepeatsOfNumberInArray\bin\Debug\04.RepeatsOfNumberInArray.exe
+D:\Todor\Telerik Software Academy\C# 2Part\3.Methods\3.Methods\04.RepeatsOfNumberInArray\bin\Debug\04.RepeatsOfNumberInArray.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\3.Methods\3.Methods\04.RepeatsOfNumberInArray\obj\Debug\04.RepeatsOfNumberInArray.exe
+D:\Todor\Telerik Software Academy\C# 2Part\3.Methods\3.Methods\04.RepeatsOfNumberInArray\obj\Debug\04.RepeatsOfNumberInArray.pdb

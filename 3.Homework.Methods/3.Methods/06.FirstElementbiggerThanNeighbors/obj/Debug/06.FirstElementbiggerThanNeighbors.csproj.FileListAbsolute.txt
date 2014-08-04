@@ -1,0 +1,6 @@
+D:\Todor\Telerik Software Academy\C# 2Part\3.Methods\3.Methods\06.FirstElementbiggerThanNeighbors\bin\Debug\06.FirstElementbiggerThanNeighbors.exe.config
+D:\Todor\Telerik Software Academy\C# 2Part\3.Methods\3.Methods\06.FirstElementbiggerThanNeighbors\bin\Debug\06.FirstElementbiggerThanNeighbors.exe
+D:\Todor\Telerik Software Academy\C# 2Part\3.Methods\3.Methods\06.FirstElementbiggerThanNeighbors\bin\Debug\06.FirstElementbiggerThanNeighbors.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\3.Methods\3.Methods\06.FirstElementbiggerThanNeighbors\obj\Debug\06.FirstElementbiggerThanNeighbors.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 2Part\3.Methods\3.Methods\06.FirstElementbiggerThanNeighbors\obj\Debug\06.FirstElementbiggerThanNeighbors.exe
+D:\Todor\Telerik Software Academy\C# 2Part\3.Methods\3.Methods\06.FirstElementbiggerThanNeighbors\obj\Debug\06.FirstElementbiggerThanNeighbors.pdb

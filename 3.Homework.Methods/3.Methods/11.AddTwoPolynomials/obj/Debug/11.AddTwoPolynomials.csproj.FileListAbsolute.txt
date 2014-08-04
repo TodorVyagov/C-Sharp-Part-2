@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\C# 2Part\3.Methods\3.Methods\11.AddTwoPolynomials\bin\Debug\11.AddTwoPolynomials.exe
+D:\Todor\Telerik Software Academy\C# 2Part\3.Methods\3.Methods\11.AddTwoPolynomials\bin\Debug\11.AddTwoPolynomials.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\3.Methods\3.Methods\11.AddTwoPolynomials\obj\Debug\11.AddTwoPolynomials.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 2Part\3.Methods\3.Methods\11.AddTwoPolynomials\obj\Debug\11.AddTwoPolynomials.exe
+D:\Todor\Telerik Software Academy\C# 2Part\3.Methods\3.Methods\11.AddTwoPolynomials\obj\Debug\11.AddTwoPolynomials.pdb

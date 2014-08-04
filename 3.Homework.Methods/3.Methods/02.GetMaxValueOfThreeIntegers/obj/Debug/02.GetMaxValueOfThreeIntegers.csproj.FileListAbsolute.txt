@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\C# 2Part\3.Methods\3.Methods\02.GetMaxValueOfThreeIntegers\bin\Debug\02.GetMaxValueOfThreeIntegers.exe.config
+D:\Todor\Telerik Software Academy\C# 2Part\3.Methods\3.Methods\02.GetMaxValueOfThreeIntegers\bin\Debug\02.GetMaxValueOfThreeIntegers.exe
+D:\Todor\Telerik Software Academy\C# 2Part\3.Methods\3.Methods\02.GetMaxValueOfThreeIntegers\bin\Debug\02.GetMaxValueOfThreeIntegers.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\3.Methods\3.Methods\02.GetMaxValueOfThreeIntegers\obj\Debug\02.GetMaxValueOfThreeIntegers.exe
+D:\Todor\Telerik Software Academy\C# 2Part\3.Methods\3.Methods\02.GetMaxValueOfThreeIntegers\obj\Debug\02.GetMaxValueOfThreeIntegers.pdb

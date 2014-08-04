@@ -1,0 +1,6 @@
+D:\Todor\Telerik Software Academy\C# 2Part\3.Methods\3.Methods\03.PrintLastDigitOfIntAsWord\bin\Debug\03.PrintLastDigitOfIntAsWord.exe.config
+D:\Todor\Telerik Software Academy\C# 2Part\3.Methods\3.Methods\03.PrintLastDigitOfIntAsWord\obj\Debug\03.PrintLastDigitOfIntAsWord.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 2Part\3.Methods\3.Methods\03.PrintLastDigitOfIntAsWord\bin\Debug\03.PrintLastDigitOfIntAsWord.exe
+D:\Todor\Telerik Software Academy\C# 2Part\3.Methods\3.Methods\03.PrintLastDigitOfIntAsWord\bin\Debug\03.PrintLastDigitOfIntAsWord.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\3.Methods\3.Methods\03.PrintLastDigitOfIntAsWord\obj\Debug\03.PrintLastDigitOfIntAsWord.exe
+D:\Todor\Telerik Software Academy\C# 2Part\3.Methods\3.Methods\03.PrintLastDigitOfIntAsWord\obj\Debug\03.PrintLastDigitOfIntAsWord.pdb

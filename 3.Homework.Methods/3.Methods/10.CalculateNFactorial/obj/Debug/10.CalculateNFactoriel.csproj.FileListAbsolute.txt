@@ -1,0 +1,1 @@
+D:\Todor\Telerik Software Academy\C# 2Part\3.Methods\3.Methods\10.CalculateNFactoriel\bin\Debug\10.CalculateNFactoriel.exe.config

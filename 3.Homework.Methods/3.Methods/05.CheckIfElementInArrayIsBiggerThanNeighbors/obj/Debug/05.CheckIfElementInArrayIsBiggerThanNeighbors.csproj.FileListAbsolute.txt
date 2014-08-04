@@ -1,0 +1,6 @@
+D:\Todor\Telerik Software Academy\C# 2Part\3.Methods\3.Methods\05.CheckIfElementInArrayIsBiggerThanNeighbors\bin\Debug\05.CheckIfElementInArrayIsBiggerThanNeighbors.exe.config
+D:\Todor\Telerik Software Academy\C# 2Part\3.Methods\3.Methods\05.CheckIfElementInArrayIsBiggerThanNeighbors\bin\Debug\05.CheckIfElementInArrayIsBiggerThanNeighbors.exe
+D:\Todor\Telerik Software Academy\C# 2Part\3.Methods\3.Methods\05.CheckIfElementInArrayIsBiggerThanNeighbors\bin\Debug\05.CheckIfElementInArrayIsBiggerThanNeighbors.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\3.Methods\3.Methods\05.CheckIfElementInArrayIsBiggerThanNeighbors\obj\Debug\05.CheckIfElementInArrayIsBiggerThanNeighbors.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 2Part\3.Methods\3.Methods\05.CheckIfElementInArrayIsBiggerThanNeighbors\obj\Debug\05.CheckIfElementInArrayIsBiggerThanNeighbors.exe
+D:\Todor\Telerik Software Academy\C# 2Part\3.Methods\3.Methods\05.CheckIfElementInArrayIsBiggerThanNeighbors\obj\Debug\05.CheckIfElementInArrayIsBiggerThanNeighbors.pdb

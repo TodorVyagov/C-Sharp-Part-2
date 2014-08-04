@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\C# 2Part\3.Methods\3.Methods\10.CalculateNFactorial\bin\Debug\10.CalculateNFactoriel.exe
+D:\Todor\Telerik Software Academy\C# 2Part\3.Methods\3.Methods\10.CalculateNFactorial\bin\Debug\10.CalculateNFactoriel.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\3.Methods\3.Methods\10.CalculateNFactorial\obj\Debug\10.CalculateNFactorial.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 2Part\3.Methods\3.Methods\10.CalculateNFactorial\obj\Debug\10.CalculateNFactoriel.exe
+D:\Todor\Telerik Software Academy\C# 2Part\3.Methods\3.Methods\10.CalculateNFactorial\obj\Debug\10.CalculateNFactoriel.pdb

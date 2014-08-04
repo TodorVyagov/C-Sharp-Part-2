@@ -1,0 +1,6 @@
+D:\Todor\Telerik Software Academy\C# 2Part\3.Methods\3.Methods\09.FindMaxElementAndSortArray\bin\Debug\09.FindMaxElementAndSortArray.exe.config
+D:\Todor\Telerik Software Academy\C# 2Part\3.Methods\3.Methods\09.FindMaxElementAndSortArray\bin\Debug\09.FindMaxElementAndSortArray.exe
+D:\Todor\Telerik Software Academy\C# 2Part\3.Methods\3.Methods\09.FindMaxElementAndSortArray\bin\Debug\09.FindMaxElementAndSortArray.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\3.Methods\3.Methods\09.FindMaxElementAndSortArray\obj\Debug\09.FindMaxElementAndSortArray.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 2Part\3.Methods\3.Methods\09.FindMaxElementAndSortArray\obj\Debug\09.FindMaxElementAndSortArray.exe
+D:\Todor\Telerik Software Academy\C# 2Part\3.Methods\3.Methods\09.FindMaxElementAndSortArray\obj\Debug\09.FindMaxElementAndSortArray.pdb
