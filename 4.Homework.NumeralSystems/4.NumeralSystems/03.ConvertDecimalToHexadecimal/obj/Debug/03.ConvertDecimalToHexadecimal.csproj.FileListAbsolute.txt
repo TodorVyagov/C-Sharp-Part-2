@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\C# 2Part\4.Homework.NumeralSystems\4.NumeralSystems\03.ConvertDecimalToHexadecimal\obj\Debug\03.ConvertDecimalToHexadecimal.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 2Part\4.Homework.NumeralSystems\4.NumeralSystems\03.ConvertDecimalToHexadecimal\bin\Debug\03.ConvertDecimalToHexadecimal.exe
+D:\Todor\Telerik Software Academy\C# 2Part\4.Homework.NumeralSystems\4.NumeralSystems\03.ConvertDecimalToHexadecimal\bin\Debug\03.ConvertDecimalToHexadecimal.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\4.Homework.NumeralSystems\4.NumeralSystems\03.ConvertDecimalToHexadecimal\obj\Debug\03.ConvertDecimalToHexadecimal.exe
+D:\Todor\Telerik Software Academy\C# 2Part\4.Homework.NumeralSystems\4.NumeralSystems\03.ConvertDecimalToHexadecimal\obj\Debug\03.ConvertDecimalToHexadecimal.pdb

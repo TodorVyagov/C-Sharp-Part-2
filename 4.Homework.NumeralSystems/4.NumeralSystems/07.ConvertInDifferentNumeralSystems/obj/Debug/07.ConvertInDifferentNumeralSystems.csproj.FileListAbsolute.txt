@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\C# 2Part\4.Homework.NumeralSystems\4.NumeralSystems\07.ConvertInDifferentNumeralSystems\bin\Debug\07.ConvertInDifferentNumeralSystems.exe
+D:\Todor\Telerik Software Academy\C# 2Part\4.Homework.NumeralSystems\4.NumeralSystems\07.ConvertInDifferentNumeralSystems\bin\Debug\07.ConvertInDifferentNumeralSystems.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\4.Homework.NumeralSystems\4.NumeralSystems\07.ConvertInDifferentNumeralSystems\obj\Debug\07.ConvertInDifferentNumeralSystems.exe
+D:\Todor\Telerik Software Academy\C# 2Part\4.Homework.NumeralSystems\4.NumeralSystems\07.ConvertInDifferentNumeralSystems\obj\Debug\07.ConvertInDifferentNumeralSystems.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\4.Homework.NumeralSystems\4.NumeralSystems\07.ConvertInDifferentNumeralSystems\obj\Debug\07.ConvertInDifferentNumeralSystems.csprojResolveAssemblyReference.cache

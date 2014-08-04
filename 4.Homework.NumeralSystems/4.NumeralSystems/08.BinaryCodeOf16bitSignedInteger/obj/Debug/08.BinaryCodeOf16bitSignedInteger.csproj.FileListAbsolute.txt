@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\C# 2Part\4.Homework.NumeralSystems\4.NumeralSystems\08.BinaryCodeOf16bitSignedInteger\bin\Debug\08.BinaryCodeOf16bitSignedInteger.exe
+D:\Todor\Telerik Software Academy\C# 2Part\4.Homework.NumeralSystems\4.NumeralSystems\08.BinaryCodeOf16bitSignedInteger\bin\Debug\08.BinaryCodeOf16bitSignedInteger.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\4.Homework.NumeralSystems\4.NumeralSystems\08.BinaryCodeOf16bitSignedInteger\obj\Debug\08.BinaryCodeOf16bitSignedInteger.exe
+D:\Todor\Telerik Software Academy\C# 2Part\4.Homework.NumeralSystems\4.NumeralSystems\08.BinaryCodeOf16bitSignedInteger\obj\Debug\08.BinaryCodeOf16bitSignedInteger.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\4.Homework.NumeralSystems\4.NumeralSystems\08.BinaryCodeOf16bitSignedInteger\obj\Debug\08.BinaryCodeOf16bitSignedInteger.csprojResolveAssemblyReference.cache
