@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\C# 2Part\6.Homework.TextFiles\6.TextFiles\06.ReadSortAndWriteTextFile\bin\Debug\06.ReadSortAndWriteTextFile.exe
+D:\Todor\Telerik Software Academy\C# 2Part\6.Homework.TextFiles\6.TextFiles\06.ReadSortAndWriteTextFile\bin\Debug\06.ReadSortAndWriteTextFile.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\6.Homework.TextFiles\6.TextFiles\06.ReadSortAndWriteTextFile\obj\Debug\06.ReadSortAndWriteTextFile.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 2Part\6.Homework.TextFiles\6.TextFiles\06.ReadSortAndWriteTextFile\obj\Debug\06.ReadSortAndWriteTextFile.exe
+D:\Todor\Telerik Software Academy\C# 2Part\6.Homework.TextFiles\6.TextFiles\06.ReadSortAndWriteTextFile\obj\Debug\06.ReadSortAndWriteTextFile.pdb

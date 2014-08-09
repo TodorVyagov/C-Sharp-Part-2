@@ -1,0 +1,4 @@
+D:\Todor\Telerik Software Academy\C# 2Part\6.Homework.TextFiles\6.TextFiles\11.DeleteAllWordsStartinfWithTestFromTextFile\bin\Debug\11.DeleteAllWordsStartinfWithTestFromTextFile.exe
+D:\Todor\Telerik Software Academy\C# 2Part\6.Homework.TextFiles\6.TextFiles\11.DeleteAllWordsStartinfWithTestFromTextFile\bin\Debug\11.DeleteAllWordsStartinfWithTestFromTextFile.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\6.Homework.TextFiles\6.TextFiles\11.DeleteAllWordsStartinfWithTestFromTextFile\obj\Debug\11.DeleteAllWordsStartinfWithTestFromTextFile.exe
+D:\Todor\Telerik Software Academy\C# 2Part\6.Homework.TextFiles\6.TextFiles\11.DeleteAllWordsStartinfWithTestFromTextFile\obj\Debug\11.DeleteAllWordsStartinfWithTestFromTextFile.pdb

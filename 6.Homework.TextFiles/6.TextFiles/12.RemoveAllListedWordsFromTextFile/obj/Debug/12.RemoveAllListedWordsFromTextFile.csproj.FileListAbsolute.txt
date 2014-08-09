@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\C# 2Part\6.Homework.TextFiles\6.TextFiles\12.RemoveAllListedWordsFromTextFile\bin\Debug\12.RemoveAllListedWordsFromTextFile.exe
+D:\Todor\Telerik Software Academy\C# 2Part\6.Homework.TextFiles\6.TextFiles\12.RemoveAllListedWordsFromTextFile\bin\Debug\12.RemoveAllListedWordsFromTextFile.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\6.Homework.TextFiles\6.TextFiles\12.RemoveAllListedWordsFromTextFile\obj\Debug\12.RemoveAllListedWordsFromTextFile.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 2Part\6.Homework.TextFiles\6.TextFiles\12.RemoveAllListedWordsFromTextFile\obj\Debug\12.RemoveAllListedWordsFromTextFile.exe
+D:\Todor\Telerik Software Academy\C# 2Part\6.Homework.TextFiles\6.TextFiles\12.RemoveAllListedWordsFromTextFile\obj\Debug\12.RemoveAllListedWordsFromTextFile.pdb

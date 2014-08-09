@@ -1,0 +1,4 @@
+D:\Todor\Telerik Software Academy\C# 2Part\6.Homework.TextFiles\6.TextFiles\09.DeleteOddLinesInTextFile\bin\Debug\09.DeleteOddLinesInTextFile.exe
+D:\Todor\Telerik Software Academy\C# 2Part\6.Homework.TextFiles\6.TextFiles\09.DeleteOddLinesInTextFile\bin\Debug\09.DeleteOddLinesInTextFile.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\6.Homework.TextFiles\6.TextFiles\09.DeleteOddLinesInTextFile\obj\Debug\09.DeleteOddLinesInTextFile.exe
+D:\Todor\Telerik Software Academy\C# 2Part\6.Homework.TextFiles\6.TextFiles\09.DeleteOddLinesInTextFile\obj\Debug\09.DeleteOddLinesInTextFile.pdb

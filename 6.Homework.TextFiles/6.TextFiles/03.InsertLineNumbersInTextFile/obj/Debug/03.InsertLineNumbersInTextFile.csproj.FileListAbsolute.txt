@@ -1,0 +1,4 @@
+D:\Todor\Telerik Software Academy\C# 2Part\6.Homework.TextFiles\6.TextFiles\03.InsertLineNumbersInTextFile\bin\Debug\03.InsertLineNumbersInTextFile.exe
+D:\Todor\Telerik Software Academy\C# 2Part\6.Homework.TextFiles\6.TextFiles\03.InsertLineNumbersInTextFile\bin\Debug\03.InsertLineNumbersInTextFile.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\6.Homework.TextFiles\6.TextFiles\03.InsertLineNumbersInTextFile\obj\Debug\03.InsertLineNumbersInTextFile.exe
+D:\Todor\Telerik Software Academy\C# 2Part\6.Homework.TextFiles\6.TextFiles\03.InsertLineNumbersInTextFile\obj\Debug\03.InsertLineNumbersInTextFile.pdb
