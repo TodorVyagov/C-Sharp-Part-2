@@ -1,0 +1,4 @@
+D:\Todor\Telerik Software Academy\C# 2Part\7.Homework.ExceptionHandling\7.ExceptionHandling\02.ReadNumberInGivenRange\bin\Debug\02.ReadNumberInGivenRange.exe
+D:\Todor\Telerik Software Academy\C# 2Part\7.Homework.ExceptionHandling\7.ExceptionHandling\02.ReadNumberInGivenRange\bin\Debug\02.ReadNumberInGivenRange.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\7.Homework.ExceptionHandling\7.ExceptionHandling\02.ReadNumberInGivenRange\obj\Debug\02.ReadNumberInGivenRange.exe
+D:\Todor\Telerik Software Academy\C# 2Part\7.Homework.ExceptionHandling\7.ExceptionHandling\02.ReadNumberInGivenRange\obj\Debug\02.ReadNumberInGivenRange.pdb
