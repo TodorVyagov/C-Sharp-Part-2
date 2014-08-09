@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\C# 2Part\5.Homework.ClassesAndObjects\5.ClassesAndObjects\02.PrintTenRandomNumbers\bin\Debug\02.PrintTenRandomNumbers.exe
+D:\Todor\Telerik Software Academy\C# 2Part\5.Homework.ClassesAndObjects\5.ClassesAndObjects\02.PrintTenRandomNumbers\bin\Debug\02.PrintTenRandomNumbers.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\5.Homework.ClassesAndObjects\5.ClassesAndObjects\02.PrintTenRandomNumbers\obj\Debug\02.PrintTenRandomNumbers.exe
+D:\Todor\Telerik Software Academy\C# 2Part\5.Homework.ClassesAndObjects\5.ClassesAndObjects\02.PrintTenRandomNumbers\obj\Debug\02.PrintTenRandomNumbers.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\5.Homework.ClassesAndObjects\5.ClassesAndObjects\02.PrintTenRandomNumbers\obj\Debug\02.PrintTenRandomNumbers.csprojResolveAssemblyReference.cache

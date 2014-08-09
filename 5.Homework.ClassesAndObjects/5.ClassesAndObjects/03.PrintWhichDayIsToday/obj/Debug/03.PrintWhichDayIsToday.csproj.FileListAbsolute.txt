@@ -1,0 +1,4 @@
+D:\Todor\Telerik Software Academy\C# 2Part\5.Homework.ClassesAndObjects\5.ClassesAndObjects\03.PrintWhichDayIsToday\bin\Debug\03.PrintWhichDayIsToday.exe
+D:\Todor\Telerik Software Academy\C# 2Part\5.Homework.ClassesAndObjects\5.ClassesAndObjects\03.PrintWhichDayIsToday\bin\Debug\03.PrintWhichDayIsToday.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\5.Homework.ClassesAndObjects\5.ClassesAndObjects\03.PrintWhichDayIsToday\obj\Debug\03.PrintWhichDayIsToday.exe
+D:\Todor\Telerik Software Academy\C# 2Part\5.Homework.ClassesAndObjects\5.ClassesAndObjects\03.PrintWhichDayIsToday\obj\Debug\03.PrintWhichDayIsToday.pdb

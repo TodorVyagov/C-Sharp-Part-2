@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\C# 2Part\5.Homework.ClassesAndObjects\5.ClassesAndObjects\04.CalculateSurfaceOfTriangle\bin\Debug\04.CalculateSurfaceOfTriangle.exe
+D:\Todor\Telerik Software Academy\C# 2Part\5.Homework.ClassesAndObjects\5.ClassesAndObjects\04.CalculateSurfaceOfTriangle\bin\Debug\04.CalculateSurfaceOfTriangle.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\5.Homework.ClassesAndObjects\5.ClassesAndObjects\04.CalculateSurfaceOfTriangle\obj\Debug\04.CalculateSurfaceOfTriangle.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 2Part\5.Homework.ClassesAndObjects\5.ClassesAndObjects\04.CalculateSurfaceOfTriangle\obj\Debug\04.CalculateSurfaceOfTriangle.exe
+D:\Todor\Telerik Software Academy\C# 2Part\5.Homework.ClassesAndObjects\5.ClassesAndObjects\04.CalculateSurfaceOfTriangle\obj\Debug\04.CalculateSurfaceOfTriangle.pdb

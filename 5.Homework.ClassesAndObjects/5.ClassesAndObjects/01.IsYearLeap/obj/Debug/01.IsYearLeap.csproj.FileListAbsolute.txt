@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\C# 2Part\5.Homework.ClassesAndObjects\5.ClassesAndObjects\01.IsYearLeap\bin\Debug\01.IsYearLeap.exe
+D:\Todor\Telerik Software Academy\C# 2Part\5.Homework.ClassesAndObjects\5.ClassesAndObjects\01.IsYearLeap\bin\Debug\01.IsYearLeap.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\5.Homework.ClassesAndObjects\5.ClassesAndObjects\01.IsYearLeap\obj\Debug\01.IsYearLeap.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 2Part\5.Homework.ClassesAndObjects\5.ClassesAndObjects\01.IsYearLeap\obj\Debug\01.IsYearLeap.exe
+D:\Todor\Telerik Software Academy\C# 2Part\5.Homework.ClassesAndObjects\5.ClassesAndObjects\01.IsYearLeap\obj\Debug\01.IsYearLeap.pdb

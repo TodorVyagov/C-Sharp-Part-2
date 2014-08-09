@@ -1,0 +1,4 @@
+D:\Todor\Telerik Software Academy\C# 2Part\5.Homework.ClassesAndObjects\5.ClassesAndObjects\07.CalculateExpression\bin\Release\07.CalculateExpression.exe
+D:\Todor\Telerik Software Academy\C# 2Part\5.Homework.ClassesAndObjects\5.ClassesAndObjects\07.CalculateExpression\bin\Release\07.CalculateExpression.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\5.Homework.ClassesAndObjects\5.ClassesAndObjects\07.CalculateExpression\obj\Release\07.CalculateExpression.exe
+D:\Todor\Telerik Software Academy\C# 2Part\5.Homework.ClassesAndObjects\5.ClassesAndObjects\07.CalculateExpression\obj\Release\07.CalculateExpression.pdb

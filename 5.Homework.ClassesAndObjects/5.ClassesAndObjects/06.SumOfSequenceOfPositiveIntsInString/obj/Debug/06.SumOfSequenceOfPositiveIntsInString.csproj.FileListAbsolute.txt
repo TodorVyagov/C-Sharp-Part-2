@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\C# 2Part\5.Homework.ClassesAndObjects\5.ClassesAndObjects\06.SumOfSequenceOfPositiveIntsInString\bin\Debug\06.SumOfSequenceOfPositiveIntsInString.exe
+D:\Todor\Telerik Software Academy\C# 2Part\5.Homework.ClassesAndObjects\5.ClassesAndObjects\06.SumOfSequenceOfPositiveIntsInString\bin\Debug\06.SumOfSequenceOfPositiveIntsInString.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\5.Homework.ClassesAndObjects\5.ClassesAndObjects\06.SumOfSequenceOfPositiveIntsInString\obj\Debug\06.SumOfSequenceOfPositiveIntsInString.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 2Part\5.Homework.ClassesAndObjects\5.ClassesAndObjects\06.SumOfSequenceOfPositiveIntsInString\obj\Debug\06.SumOfSequenceOfPositiveIntsInString.exe
+D:\Todor\Telerik Software Academy\C# 2Part\5.Homework.ClassesAndObjects\5.ClassesAndObjects\06.SumOfSequenceOfPositiveIntsInString\obj\Debug\06.SumOfSequenceOfPositiveIntsInString.pdb

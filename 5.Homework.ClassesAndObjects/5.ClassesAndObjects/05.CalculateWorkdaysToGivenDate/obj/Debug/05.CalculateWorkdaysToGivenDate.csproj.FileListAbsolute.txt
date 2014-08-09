@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\C# 2Part\5.Homework.ClassesAndObjects\5.ClassesAndObjects\05.CalculateWorkdaysToGivenDate\bin\Debug\05.CalculateWorkdaysToGivenDate.exe
+D:\Todor\Telerik Software Academy\C# 2Part\5.Homework.ClassesAndObjects\5.ClassesAndObjects\05.CalculateWorkdaysToGivenDate\bin\Debug\05.CalculateWorkdaysToGivenDate.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\5.Homework.ClassesAndObjects\5.ClassesAndObjects\05.CalculateWorkdaysToGivenDate\obj\Debug\05.CalculateWorkdaysToGivenDate.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 2Part\5.Homework.ClassesAndObjects\5.ClassesAndObjects\05.CalculateWorkdaysToGivenDate\obj\Debug\05.CalculateWorkdaysToGivenDate.exe
+D:\Todor\Telerik Software Academy\C# 2Part\5.Homework.ClassesAndObjects\5.ClassesAndObjects\05.CalculateWorkdaysToGivenDate\obj\Debug\05.CalculateWorkdaysToGivenDate.pdb

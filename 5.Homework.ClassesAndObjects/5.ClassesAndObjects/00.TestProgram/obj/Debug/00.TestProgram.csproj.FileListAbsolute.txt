@@ -1,0 +1,10 @@
+C:\Users\student\Desktop\Todor\5.ClassesAndObjects\00.TestProgram\bin\Debug\00.TestProgram.exe
+C:\Users\student\Desktop\Todor\5.ClassesAndObjects\00.TestProgram\bin\Debug\00.TestProgram.pdb
+C:\Users\student\Desktop\Todor\5.ClassesAndObjects\00.TestProgram\obj\Debug\00.TestProgram.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Todor\5.ClassesAndObjects\00.TestProgram\obj\Debug\00.TestProgram.exe
+C:\Users\student\Desktop\Todor\5.ClassesAndObjects\00.TestProgram\obj\Debug\00.TestProgram.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\5.Homework.ClassesAndObjects\5.ClassesAndObjects\00.TestProgram\obj\Debug\00.TestProgram.exe
+D:\Todor\Telerik Software Academy\C# 2Part\5.Homework.ClassesAndObjects\5.ClassesAndObjects\00.TestProgram\obj\Debug\00.TestProgram.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\5.Homework.ClassesAndObjects\5.ClassesAndObjects\00.TestProgram\bin\Debug\00.TestProgram.exe
+D:\Todor\Telerik Software Academy\C# 2Part\5.Homework.ClassesAndObjects\5.ClassesAndObjects\00.TestProgram\bin\Debug\00.TestProgram.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\5.Homework.ClassesAndObjects\5.ClassesAndObjects\00.TestProgram\obj\Debug\00.TestProgram.csprojResolveAssemblyReference.cache
