@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\21.CountLettersInString\bin\Debug\21.CountLettersInString.exe
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\21.CountLettersInString\bin\Debug\21.CountLettersInString.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\21.CountLettersInString\obj\Debug\21.CountLettersInString.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\21.CountLettersInString\obj\Debug\21.CountLettersInString.exe
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\21.CountLettersInString\obj\Debug\21.CountLettersInString.pdb

@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\08.ExtraxtSentencesFromText\bin\Debug\08.ExtraxtSentencesFromText.exe
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\08.ExtraxtSentencesFromText\bin\Debug\08.ExtraxtSentencesFromText.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\08.ExtraxtSentencesFromText\obj\Debug\08.ExtraxtSentencesFromText.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\08.ExtraxtSentencesFromText\obj\Debug\08.ExtraxtSentencesFromText.exe
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\08.ExtraxtSentencesFromText\obj\Debug\08.ExtraxtSentencesFromText.pdb

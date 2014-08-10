@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\12.ParseURL\bin\Debug\12.ParseURL.exe
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\12.ParseURL\bin\Debug\12.ParseURL.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\12.ParseURL\obj\Debug\12.ParseURL.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\12.ParseURL\obj\Debug\12.ParseURL.exe
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\12.ParseURL\obj\Debug\12.ParseURL.pdb

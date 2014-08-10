@@ -1,0 +1,4 @@
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\17.ReadDateTimeAndPrintAfter6Hours\bin\Debug\17.ReadDateTimeAndPrintAfter6Hours.exe
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\17.ReadDateTimeAndPrintAfter6Hours\bin\Debug\17.ReadDateTimeAndPrintAfter6Hours.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\17.ReadDateTimeAndPrintAfter6Hours\obj\Debug\17.ReadDateTimeAndPrintAfter6Hours.exe
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\17.ReadDateTimeAndPrintAfter6Hours\obj\Debug\17.ReadDateTimeAndPrintAfter6Hours.pdb

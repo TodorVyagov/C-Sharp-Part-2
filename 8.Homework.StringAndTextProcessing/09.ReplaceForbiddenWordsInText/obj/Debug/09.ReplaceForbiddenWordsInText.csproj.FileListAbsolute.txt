@@ -1,0 +1,4 @@
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\09.ReplaceForbiddenWordsInText\bin\Debug\09.ReplaceForbiddenWordsInText.exe
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\09.ReplaceForbiddenWordsInText\bin\Debug\09.ReplaceForbiddenWordsInText.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\09.ReplaceForbiddenWordsInText\obj\Debug\09.ReplaceForbiddenWordsInText.exe
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\09.ReplaceForbiddenWordsInText\obj\Debug\09.ReplaceForbiddenWordsInText.pdb

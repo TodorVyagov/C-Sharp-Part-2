@@ -1,0 +1,4 @@
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\11.FormatNumber\bin\Debug\11.FormatNumber.exe
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\11.FormatNumber\bin\Debug\11.FormatNumber.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\11.FormatNumber\obj\Debug\11.FormatNumber.exe
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\11.FormatNumber\obj\Debug\11.FormatNumber.pdb

@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\25.ExtractHeadAndBodyInHTMLDocument\bin\Debug\25.ExtractHeadAndBodyInHTMLDocument.exe
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\25.ExtractHeadAndBodyInHTMLDocument\bin\Debug\25.ExtractHeadAndBodyInHTMLDocument.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\25.ExtractHeadAndBodyInHTMLDocument\obj\Debug\25.ExtractHeadAndBodyInHTMLDocument.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\25.ExtractHeadAndBodyInHTMLDocument\obj\Debug\25.ExtractHeadAndBodyInHTMLDocument.exe
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\25.ExtractHeadAndBodyInHTMLDocument\obj\Debug\25.ExtractHeadAndBodyInHTMLDocument.pdb

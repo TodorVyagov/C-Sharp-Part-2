@@ -1,0 +1,4 @@
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\23.ReplaceSequnceOfEqualLettersInStringWithSingle\bin\Debug\23.ReplaceSequnceOfEqualLettersInStringWithSingle.exe
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\23.ReplaceSequnceOfEqualLettersInStringWithSingle\bin\Debug\23.ReplaceSequnceOfEqualLettersInStringWithSingle.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\23.ReplaceSequnceOfEqualLettersInStringWithSingle\obj\Debug\23.ReplaceSequnceOfEqualLettersInStringWithSingle.exe
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\23.ReplaceSequnceOfEqualLettersInStringWithSingle\obj\Debug\23.ReplaceSequnceOfEqualLettersInStringWithSingle.pdb

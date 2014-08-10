@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\16.CalculateDaysBetweenTwoDates\bin\Debug\16.CalculateDaysBetweenTwoDates.exe
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\16.CalculateDaysBetweenTwoDates\bin\Debug\16.CalculateDaysBetweenTwoDates.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\16.CalculateDaysBetweenTwoDates\obj\Debug\16.CalculateDaysBetweenTwoDates.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\16.CalculateDaysBetweenTwoDates\obj\Debug\16.CalculateDaysBetweenTwoDates.exe
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\16.CalculateDaysBetweenTwoDates\obj\Debug\16.CalculateDaysBetweenTwoDates.pdb

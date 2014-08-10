@@ -1,0 +1,4 @@
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\06.FillStringToLengthOf20Characters\bin\Debug\06.FillStringToLengthOf20Characters.exe
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\06.FillStringToLengthOf20Characters\bin\Debug\06.FillStringToLengthOf20Characters.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\06.FillStringToLengthOf20Characters\obj\Debug\06.FillStringToLengthOf20Characters.exe
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\06.FillStringToLengthOf20Characters\obj\Debug\06.FillStringToLengthOf20Characters.pdb

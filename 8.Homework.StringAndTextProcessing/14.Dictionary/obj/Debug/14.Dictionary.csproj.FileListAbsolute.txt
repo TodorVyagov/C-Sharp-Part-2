@@ -1,0 +1,5 @@
+C:\Users\student\Desktop\Solution2\14.Dictionary\bin\Debug\14.Dictionary.exe.config
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\14.Dictionary\bin\Debug\14.Dictionary.exe
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\14.Dictionary\bin\Debug\14.Dictionary.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\14.Dictionary\obj\Debug\14.Dictionary.exe
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\14.Dictionary\obj\Debug\14.Dictionary.pdb

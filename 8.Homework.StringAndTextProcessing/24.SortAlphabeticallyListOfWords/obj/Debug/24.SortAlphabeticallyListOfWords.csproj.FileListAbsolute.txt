@@ -1,0 +1,4 @@
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\24.SortAlphabeticallyListOfWords\bin\Debug\24.SortAlphabeticallyListOfWords.exe
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\24.SortAlphabeticallyListOfWords\bin\Debug\24.SortAlphabeticallyListOfWords.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\24.SortAlphabeticallyListOfWords\obj\Debug\24.SortAlphabeticallyListOfWords.exe
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\24.SortAlphabeticallyListOfWords\obj\Debug\24.SortAlphabeticallyListOfWords.pdb

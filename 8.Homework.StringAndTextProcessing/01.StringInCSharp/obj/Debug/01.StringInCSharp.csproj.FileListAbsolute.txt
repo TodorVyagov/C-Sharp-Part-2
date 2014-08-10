@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\01.StringInCSharp\bin\Debug\01.StringInCSharp.exe
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\01.StringInCSharp\bin\Debug\01.StringInCSharp.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\01.StringInCSharp\obj\Debug\01.StringInCSharp.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\01.StringInCSharp\obj\Debug\01.StringInCSharp.exe
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\01.StringInCSharp\obj\Debug\01.StringInCSharp.pdb

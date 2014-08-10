@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\10.ConvertStringToUnicodeChars\bin\Debug\10.ConvertStringToUnicodeChars.exe
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\10.ConvertStringToUnicodeChars\bin\Debug\10.ConvertStringToUnicodeChars.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\10.ConvertStringToUnicodeChars\obj\Debug\10.ConvertStringToUnicodeChars.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\10.ConvertStringToUnicodeChars\obj\Debug\10.ConvertStringToUnicodeChars.exe
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\10.ConvertStringToUnicodeChars\obj\Debug\10.ConvertStringToUnicodeChars.pdb

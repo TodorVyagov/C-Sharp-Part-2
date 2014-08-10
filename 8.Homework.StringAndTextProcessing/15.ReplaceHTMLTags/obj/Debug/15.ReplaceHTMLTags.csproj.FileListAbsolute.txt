@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\15.ReplaceHTMLTags\bin\Debug\15.ReplaceHTMLTags.exe
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\15.ReplaceHTMLTags\bin\Debug\15.ReplaceHTMLTags.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\15.ReplaceHTMLTags\obj\Debug\15.ReplaceHTMLTags.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\15.ReplaceHTMLTags\obj\Debug\15.ReplaceHTMLTags.exe
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\15.ReplaceHTMLTags\obj\Debug\15.ReplaceHTMLTags.pdb

@@ -1,0 +1,4 @@
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\03.CheckIfExpressionIsCorrect\bin\Debug\03.CheckIfExpressionIsCorrect.exe
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\03.CheckIfExpressionIsCorrect\bin\Debug\03.CheckIfExpressionIsCorrect.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\03.CheckIfExpressionIsCorrect\obj\Debug\03.CheckIfExpressionIsCorrect.exe
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\03.CheckIfExpressionIsCorrect\obj\Debug\03.CheckIfExpressionIsCorrect.pdb

@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\04.CountSubstringsInString\bin\Debug\04.CountSubstringsInString.exe
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\04.CountSubstringsInString\bin\Debug\04.CountSubstringsInString.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\04.CountSubstringsInString\obj\Debug\04.CountSubstringsInString.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\04.CountSubstringsInString\obj\Debug\04.CountSubstringsInString.exe
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\04.CountSubstringsInString\obj\Debug\04.CountSubstringsInString.pdb

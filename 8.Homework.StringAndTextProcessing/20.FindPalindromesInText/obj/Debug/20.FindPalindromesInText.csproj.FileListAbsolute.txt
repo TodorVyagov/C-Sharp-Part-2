@@ -1,0 +1,4 @@
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\20.FindPalindromesInText\bin\Debug\20.FindPalindromesInText.exe
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\20.FindPalindromesInText\bin\Debug\20.FindPalindromesInText.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\20.FindPalindromesInText\obj\Debug\20.FindPalindromesInText.exe
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\20.FindPalindromesInText\obj\Debug\20.FindPalindromesInText.pdb

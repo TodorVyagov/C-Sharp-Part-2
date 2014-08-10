@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\05.ChangeTextBetweenTags\bin\Debug\05.ChangeTextBetweenTags.exe
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\05.ChangeTextBetweenTags\bin\Debug\05.ChangeTextBetweenTags.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\05.ChangeTextBetweenTags\obj\Debug\05.ChangeTextBetweenTags.exe
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\05.ChangeTextBetweenTags\obj\Debug\05.ChangeTextBetweenTags.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\05.ChangeTextBetweenTags\obj\Debug\05.ChangeTextBetweenTags.csprojResolveAssemblyReference.cache

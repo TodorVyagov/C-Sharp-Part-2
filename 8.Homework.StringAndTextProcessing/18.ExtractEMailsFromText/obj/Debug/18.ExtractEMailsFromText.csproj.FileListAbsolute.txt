@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\18.ExtractEMailsFromText\obj\Debug\18.ExtractEMailsFromText.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\18.ExtractEMailsFromText\bin\Debug\18.ExtractEMailsFromText.exe
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\18.ExtractEMailsFromText\bin\Debug\18.ExtractEMailsFromText.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\18.ExtractEMailsFromText\obj\Debug\18.ExtractEMailsFromText.exe
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\18.ExtractEMailsFromText\obj\Debug\18.ExtractEMailsFromText.pdb

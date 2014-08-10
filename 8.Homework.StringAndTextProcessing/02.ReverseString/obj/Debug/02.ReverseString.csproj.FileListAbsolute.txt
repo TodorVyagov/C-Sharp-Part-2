@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Todor\8.StringsAndTextProcessing\02.ReverseString\bin\Debug\02.ReverseString.exe
+C:\Users\student\Desktop\Todor\8.StringsAndTextProcessing\02.ReverseString\bin\Debug\02.ReverseString.pdb
+C:\Users\student\Desktop\Todor\8.StringsAndTextProcessing\02.ReverseString\obj\Debug\02.ReverseString.exe
+C:\Users\student\Desktop\Todor\8.StringsAndTextProcessing\02.ReverseString\obj\Debug\02.ReverseString.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\02.ReverseString\obj\Debug\02.ReverseString.exe
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\02.ReverseString\obj\Debug\02.ReverseString.pdb

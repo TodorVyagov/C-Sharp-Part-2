@@ -1,0 +1,5 @@
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\22.CountWordsInString\bin\Debug\22.CountWordsInString.exe
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\22.CountWordsInString\bin\Debug\22.CountWordsInString.pdb
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\22.CountWordsInString\obj\Debug\22.CountWordsInString.csprojResolveAssemblyReference.cache
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\22.CountWordsInString\obj\Debug\22.CountWordsInString.exe
+D:\Todor\Telerik Software Academy\C# 2Part\8.Homework.StringAndTextProcessing\22.CountWordsInString\obj\Debug\22.CountWordsInString.pdb
